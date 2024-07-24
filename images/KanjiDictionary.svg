@@ -1,0 +1,15 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <path id="line" d="m55 30a 100 100 0 0 1 30 0" fill="none" stroke="black" stroke-linecap="round" stroke-width="2" />
+    </defs>
+
+    <path d="m50 20a 100 100 0 0 1 40 0l0 60a100 100 0 0 0 -40 0 100 100 0 0 0 -40 0l0 -60a100 100 0 0 1 40 0l0 60" fill="none" stroke="black" stroke-linecap="round" stroke-width="2" />
+
+    <use xlink:href="#line" />
+    <use xlink:href="#line" y="10" />
+    <use xlink:href="#line" y="20" />
+    <use xlink:href="#line" y="30" />
+    <use xlink:href="#line" y="40" />
+
+    <path d="m15 30m15 0l0 5m-15 0l0 5m0 -5l30 0 0 5m-25 0l20 0 -10 5 0 15 -3 -1m-12 -10l30 0"  fill="none" stroke="black" stroke-linecap="round" stroke-width="2" />
+</svg>
