@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1721843786659,
+  "timestamp": 1728993598077,
   "index": "/KanjiAid/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/KanjiAid/chunk-3EKVN6NF.js",
-        "/KanjiAid/chunk-GUHLQPOS.js",
+        "/KanjiAid/chunk-4ZSUHIBW.js",
+        "/KanjiAid/chunk-6CC2DVK5.js",
         "/KanjiAid/favicon.ico",
         "/KanjiAid/index.html",
-        "/KanjiAid/main-Y4OLJFYC.js",
+        "/KanjiAid/main-PNYVMFIG.js",
         "/KanjiAid/manifest.webmanifest",
         "/KanjiAid/polyfills-6EAL64PA.js",
-        "/KanjiAid/styles-DFYMXOBJ.css"
+        "/KanjiAid/styles-KLKCFDD2.css"
       ],
       "patterns": []
     },
@@ -46,8 +46,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/KanjiAid/chunk-3EKVN6NF.js": "b177e627721b883f37ce234ea5a8bb56f4fcbada",
-    "/KanjiAid/chunk-GUHLQPOS.js": "5ffefabbf5b6641a319c3fec06b8a46cd21a3262",
+    "/KanjiAid/chunk-4ZSUHIBW.js": "edf983879c9525f5f0c49a91d0e9f3a5d0fe849c",
+    "/KanjiAid/chunk-6CC2DVK5.js": "5bf1058a6bbaaa414c4aefac2a9ba442a76bbae0",
     "/KanjiAid/favicon.ico": "31c72e2acae38af7a398b67e8a058104ffecc55f",
     "/KanjiAid/icons/icon-128x128.png": "3f24d9211742952bd895a1897702a007c6bcb437",
     "/KanjiAid/icons/icon-144x144.png": "704d332e6d9e8d9f870ddc7253f659828ea42688",
@@ -59,11 +59,11 @@
     "/KanjiAid/icons/icon-96x96.png": "ac9ad4d9ac1d99eb9592a32f9265f26377ffe79e",
     "/KanjiAid/images/KanjiDictionary.svg": "fea6ab0bc0f2ae88b06c0910cc5218cbd50bc992",
     "/KanjiAid/images/KanjiHelp.svg": "f0eb09c05512f2bb3e52152b028d11c6d1447600",
-    "/KanjiAid/index.html": "2a48412ef209dd5ad9c1fa3219941a3f3e09d137",
-    "/KanjiAid/main-Y4OLJFYC.js": "4f387110db91fb434575f5c9f4c01276c35080cb",
+    "/KanjiAid/index.html": "2cb29e02de7c79cce479c3c1a051a3dd8f145272",
+    "/KanjiAid/main-PNYVMFIG.js": "f7e11a94f7bb4a480c9065c93d571ca83d610491",
     "/KanjiAid/manifest.webmanifest": "97e1c80bba4afaaf8bc527372aae969630b0a9f7",
     "/KanjiAid/polyfills-6EAL64PA.js": "d874147a12a6570d9b44e99935e9de8b7f3cabbc",
-    "/KanjiAid/styles-DFYMXOBJ.css": "bcb91d9a74332a900e63bcf62ade39ad615ef417"
+    "/KanjiAid/styles-KLKCFDD2.css": "87942ff61b5c8ea2e3ee18dd89a4181f76872613"
   },
   "navigationUrls": [
     {
