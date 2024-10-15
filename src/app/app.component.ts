@@ -42,6 +42,7 @@ import {MatButtonModule} from '@angular/material/button';
         <ul>
           <li><a routerLink="/" routerLinkActive="active">Home</a></li>
           <li><a routerLink="/paragraph" routerLinkActive="active">Paragraph Helper</a></li>
+          <li><a routerLink="/quiz" routerLinkActive="active">Quiz</a></li>
           <li><a routerLink="/logography" routerLinkActive="active">Logography</a></li>
         </ul>
       </nav>
@@ -66,7 +67,8 @@ import {MatButtonModule} from '@angular/material/button';
     'a::before { font-size: x-large; font-weight:bold; padding:0 1rem; }',
     'li:nth-child(1)>a::before { content:"家";}',
     'li:nth-child(2)>a::before { content:"章";}',
-    'li:nth-child(3)>a::before { content:"字";}',
+    'li:nth-child(3)>a::before { content:"問";}',
+    'li:nth-child(4)>a::before { content:"字";}',
     'svg { width:1.5rem; height:1.5rem; }',
     '#content>* {max-width:50rem}'
   ],

@@ -44,15 +44,15 @@ export class RomajiInputComponent {
     if (this.popover!.nativeElement.querySelector('#selected-option')) {
       this.popover!.nativeElement.querySelector('#selected-option')!.id = '';
     }
-    setTimeout(() => {
-      this.popover!.nativeElement.children[this.selectedOptionIndex]!.id = 'selected-option';
-    });
+    
+    if (this.popover!.nativeElement.children[this.selectedOptionIndex]) {
+      this.popover!.nativeElement.children[this.selectedOptionIndex].id = 'selected-option';
+    }
 
     this.popover?.nativeElement.showPopover();
   }
 
   handleSelection(event:Event) {
-    console.log(event)
     if ((event as KeyboardEvent).code =='ArrowUp') { 
       event.preventDefault();
       this.selectedOptionIndex = (this.selectedOptionIndex - 1 + this.options.length) % this.options.length;
