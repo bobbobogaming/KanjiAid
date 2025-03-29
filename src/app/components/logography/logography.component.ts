@@ -36,7 +36,8 @@ import { MatTab, MatTabGroup } from '@angular/material/tabs';
   `,
   styles: [
     ':host { display:flex; flex-direction:column; align-items:center; }',
-    'summary { list-style:none; cursor:pointer; text-align:center; }'
+    'summary { list-style:none; cursor:pointer; text-align:center; }',
+    'mat-tab-group { max-width:100vw; }'
   ]
 })
 export class LogographyComponent implements AfterContentInit {

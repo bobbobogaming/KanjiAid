@@ -57,7 +57,7 @@ import {MatButtonModule} from '@angular/material/button';
     '@media screen and (min-width:700px) { nav#navbar { position: fixed; z-index: 4; height: 100%; top: 0; left: 0; width: 3.5rem; transition: width 2s; border-radius: 0 1rem 1rem 0; background: #dd2222; box-shadow: 0 0 2px; } }',
     '@media screen and (min-width:700px) { nav.open-navbar { width: 12rem!important; } }',
     '@media screen and (max-width:700px) { nav#navbar { position: inherit; height: 4rem; width:100%; transition: height 2s; border-radius: 0 0 1rem 1rem; background: #dd2222; box-shadow: 0 0 2px; overflow: hidden} }',
-    '@media screen and (max-width:700px) { nav.open-navbar { height: 16rem!important; } }',
+    '@media screen and (max-width:700px) { nav.open-navbar { height: calc(4rem + (3.5rem * 4))!important; } }',
     'div#content { display: flex; align-content: center; align-items: center; flex-direction: column; flex-wrap: wrap; }',
     'button { margin-top:1rem; margin-left:.5rem; display:flex; align-items:center; justify-content:center; }',
     'ul { list-style:none; padding:inherit; }',
