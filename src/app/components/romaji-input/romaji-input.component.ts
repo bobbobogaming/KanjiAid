@@ -30,6 +30,7 @@ export class RomajiInputComponent {
   selectedOptionIndex: number = 0;
   
   handleKeyPress(event:Event) {
+    this.valueChange.emit(this.value);
     this.options = Object.keys(KatakanaHiragana.syllabary).filter(i=>KatakanaHiragana.syllabary[i].romanji.startsWith(this.value.match(/[a-zA-Z]+$/)?.[0]||''))
     if (!this.value.match(/[a-zA-Z]+$/)?.length) { this.options = []; }
     if (!this.options.length) { 
