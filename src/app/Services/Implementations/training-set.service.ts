@@ -26,4 +26,14 @@ export class TrainingSetService implements ITrainingSet {
 
     return sets;
   }
+
+  AddTrainingSets(sets:KanjiTrainingSet[]): void {
+    try {
+      let prevSets = this.GetAllTrainingSets();
+      prevSets = [...prevSets,...sets];
+      this.SetTrainingSets(prevSets);
+    } catch (e) {
+      this.SetTrainingSets(sets);
+    }
+  }
 }
