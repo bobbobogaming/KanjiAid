@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1743285686452,
+  "timestamp": 1749136506674,
   "index": "https://bobbobogaming.github.io/KanjiAid/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "https://bobbobogaming.github.io/KanjiAid/chunk-6CC2DVK5.js",
         "https://bobbobogaming.github.io/KanjiAid/favicon.ico",
         "https://bobbobogaming.github.io/KanjiAid/index.html",
-        "https://bobbobogaming.github.io/KanjiAid/main-AVWXQ6HM.js",
+        "https://bobbobogaming.github.io/KanjiAid/main-JF3DUYXN.js",
         "https://bobbobogaming.github.io/KanjiAid/manifest.webmanifest",
         "https://bobbobogaming.github.io/KanjiAid/polyfills-6EAL64PA.js",
         "https://bobbobogaming.github.io/KanjiAid/styles-KLKCFDD2.css"
@@ -59,8 +59,8 @@
     "https://bobbobogaming.github.io/KanjiAid/icons/icon-96x96.png": "ac9ad4d9ac1d99eb9592a32f9265f26377ffe79e",
     "https://bobbobogaming.github.io/KanjiAid/images/KanjiDictionary.svg": "fea6ab0bc0f2ae88b06c0910cc5218cbd50bc992",
     "https://bobbobogaming.github.io/KanjiAid/images/KanjiHelp.svg": "f0eb09c05512f2bb3e52152b028d11c6d1447600",
-    "https://bobbobogaming.github.io/KanjiAid/index.html": "aa7629c405fd1508849138e2a71cdae2f04ec927",
-    "https://bobbobogaming.github.io/KanjiAid/main-AVWXQ6HM.js": "b5e5bbea0b9544bab9da779a0e476361918409cd",
+    "https://bobbobogaming.github.io/KanjiAid/index.html": "16531d1951150b20ba80df2ecda2ebfb694afce2",
+    "https://bobbobogaming.github.io/KanjiAid/main-JF3DUYXN.js": "c89794a65c2b7d91c8977c5afd1fd50c58b34618",
     "https://bobbobogaming.github.io/KanjiAid/manifest.webmanifest": "97e1c80bba4afaaf8bc527372aae969630b0a9f7",
     "https://bobbobogaming.github.io/KanjiAid/polyfills-6EAL64PA.js": "d874147a12a6570d9b44e99935e9de8b7f3cabbc",
     "https://bobbobogaming.github.io/KanjiAid/styles-KLKCFDD2.css": "87942ff61b5c8ea2e3ee18dd89a4181f76872613"
