@@ -25,11 +25,13 @@ import { FormsModule } from '@angular/forms';
       <h3>Provided features</h3>
       <p>The website provides a page where a user can input a log of text and then hover over any character they are uncertain about the reading or meaning of. When a character is hovered over a card showing information about that character is shown.</p>
       <p>The website also has a kanji dictionary. (Logography)</p>
-      <h3>Planed features</h3>
       <p>A sort of quiz game is planned for the website.</p>
+      <p>The ability to create training sets</p>
+      <h3>Planed features</h3>
+      <p>The ability to edit training sets</p>
       <p>Some pages will likely be reworked to work better.</p>
       <p>More work is planned to make the website more mobile friendly.</p>
-      <p>The website is set up like if it was a PWA (a downloadable app), this is a untested feature an will hopefully become fully working at some point.</p>
+      <p>The website is set up like if it was a PWA (a downloadable app), it's currently not compiled right for github pages and will hopefully become fully working at some point.</p>
       <h2>A disclaimer</h2>
       <p>This website is unfortunately developed without a great deal of knowledge about the Japanese writing system, tho still a none 0 amount. A such mistakes and oversights are likely to be present.</p>
       <h2>Data</h2>
